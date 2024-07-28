@@ -36,6 +36,9 @@
 
 ## 🌐 Published Sites
 
+### [Recipe Generator](https://rulkimi.github.io/recipe-generator/)
+🍲 Generate recipes based on the dish name you provide. Ideal for discovering new recipes and planning your meals.
+
 ### [Bus Location Tracking Website](https://rulkimi.github.io/bus-location-server/)
 🚍 Track real-time locations of buses with this web application. Perfect for commuters and transit enthusiasts. (still in beta)
 
@@ -44,9 +47,6 @@
 
 ### [Track Instagram Non-followers Website](https://rulkimi.github.io/insta-nonfollowers/)
 📸 Discover who isn't following you back on Instagram with this handy tool. Keep your follower list clean and updated effortlessly.
-
-### [Recipe Generator](https://rulkimi.github.io/recipe-generator/)
-🍲 Generate recipes based on the dish name you provide. Ideal for discovering new recipes and planning your meals.
 
 
 

@@ -50,8 +50,8 @@
 ### [Bus Location Tracking Website](https://rulkimi.github.io/bus-location-server/)
 🚍 Track real-time locations of buses with this web application. Perfect for commuters and transit enthusiasts. (still in beta)
 
-### [Personal Portfolio Website](https://rulkimi.github.io/kimi-portfolio/)
-🌟 Explore my personal portfolio showcasing my projects, skills, and experience. Built with Vue.js to provide a seamless and dynamic user experience.
+### [Pokedex](https://rulkimi.github.io/pokedex/)
+🔍 Find your favorite Pokémon with this interactive Pokédex web app. Built with Vue.js for smooth navigation and dynamic data rendering, it showcases my frontend skills through clean UI, API integration, and responsive design.
 
 ### [Track Instagram Non-followers Website](https://rulkimi.github.io/insta-nonfollowers/)
 📸 Discover who isn't following you back on Instagram with this handy tool. Keep your follower list clean and updated effortlessly.

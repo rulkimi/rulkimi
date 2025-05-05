@@ -47,7 +47,7 @@
 ### [Recipe Generator](https://rulkimi.github.io/recipe-generator/)
 🍲 Generate recipes based on the dish name you provide. Ideal for discovering new recipes and planning your meals.
 
-### [Bus Location Tracking Website](https://bus-location-tracker.rulkimi.com/))
+### [Bus Location Tracking Website](https://bus-location-tracker.rulkimi.com/)
 🚍 Track real-time locations of buses with this web application. Perfect for commuters and transit enthusiasts. (still in beta)
 
 ### [Pokedex](https://rulkimi.github.io/pokedex/)

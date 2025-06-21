@@ -50,7 +50,7 @@
 ### [Bus Location Tracking Website](https://bus-location-server-pi.vercel.app/)
 🚍 Track real-time locations of buses with this web application. Perfect for commuters and transit enthusiasts. (still in beta)
 
-### [Pokedex](https://rulkimi.github.io/pokedex/)
+### [Pokedex](https://pokedex.rulkimi.com/)
 🔍 Find your favorite Pokémon with this interactive Pokédex web app. Built with Vue.js for smooth navigation and dynamic data rendering, it showcases my frontend skills through clean UI, API integration, and responsive design.
 
 ### [Track Instagram Non-followers Website](https://rulkimi.github.io/insta-nonfollowers/)

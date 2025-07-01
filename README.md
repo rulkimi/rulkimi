@@ -44,7 +44,7 @@
 
 ## 🌐 Published Sites
 
-### [Recipe Generator](https://rulkimi.github.io/recipe-generator/)
+### [Recipe Generator](https://recipe-generator.rulkimi.com/recipes/search)
 🍲 Generate recipes based on the dish name you provide. Ideal for discovering new recipes and planning your meals.
 
 ### [Bus Location Tracking Website](https://bus-location-server-pi.vercel.app/)
